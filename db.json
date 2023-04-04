@@ -1,0 +1,198 @@
+{
+  "product": [
+    {
+      "id": 13,
+      "stok": 10,
+      "kode": "K-012",
+      "namaProduk": "pangsit",
+      "harga": 1000,
+      "is_ready": true,
+      "gambar": "pangsit.jpg",
+      "category": {
+        "id": 2,
+        "nama": "makanan"
+      }
+    },
+    {
+      "id": 14,
+      "kode": "K-012",
+      "namaProduk": "Burger",
+      "stok": 5,
+      "harga": 1000,
+      "is_ready": true,
+      "gambar": "cheese-burger.jpg",
+      "category": {
+        "id": 2,
+        "nama": "tempe"
+      }
+    },
+    {
+      "id": 11,
+      "kode": "K-011",
+      "namaProduk": "Coffe Late",
+      "harga": 3000,
+      "is_ready": true,
+      "gambar": "coffe-late.jpg",
+      "category": {
+        "id": 2,
+        "nama": "Minuman"
+      }
+    },
+    {
+      "id": 12,
+      "kode": "K-012",
+      "namaProduk": "Es Jeruk",
+      "harga": 3000,
+      "is_ready": true,
+      "gambar": "es-jeruk.jpg",
+      "category": {
+        "id": 2,
+        "nama": "Minuman"
+      }
+    },
+    {
+      "id": 13,
+      "kode": "K-013",
+      "namaProduk": "Es Teh",
+      "harga": 2000,
+      "is_ready": true,
+      "gambar": "es-teh.jpg",
+      "category": {
+        "id": 2,
+        "nama": "Minuman"
+      }
+    },
+    {
+      "id": 14,
+      "kode": "K-014",
+      "namaProduk": "Teh Hangat",
+      "harga": 2000,
+      "is_ready": true,
+      "gambar": "teh-hangat.jpg",
+      "category": {
+        "id": 2,
+        "nama": "Minuman"
+      }
+    },
+    {
+      "id": 15,
+      "kode": "K-014",
+      "namaProduk": "mie goreng",
+      "harga": 2000,
+      "is_ready": true,
+      "gambar": "mie-goreng.jpg",
+      "category": {
+        "id": 2,
+        "nama": "Minuman"
+      }
+    },
+    {
+      "namaProduk": "Nasi Uduk Balado",
+      "harga": 10000,
+      "stok": "5",
+      "gambar": "nasi-rames.jpg",
+      "id": 16
+    },
+    {
+      "namaProduk": "Nasi Padang",
+      "harga": 10000,
+      "stok": "5",
+      "gambar": "nasi-ayam-geprek.jpg",
+      "id": 17
+    },
+    {
+      "namaProduk": "Sate Ayam",
+      "harga": 12000,
+      "stok": "5",
+      "gambar": "sate-ayam.jpg",
+      "id": 18
+    },
+    {
+      "namaProduk": "Nasi Padang",
+      "harga": 10000,
+      "stok": "5",
+      "gambar": "mie-goreng.jpg",
+      "id": 19
+    },
+    {
+      "id": 11,
+      "kode": "K-011",
+      "namaProduk": "Coffe Late",
+      "harga": 3000,
+      "stok": "10",
+      "is_ready": true,
+      "gambar": "coffe-late.jpg",
+      "category": {
+        "id": 2,
+        "nama": "Minuman"
+      }
+    },
+    {
+      "id": 12,
+      "kode": "K-012",
+      "namaProduk": "Es Jeruk",
+      "stok": "10",
+      "harga": 3000,
+      "is_ready": true,
+      "gambar": "es-jeruk.jpg",
+      "category": {
+        "id": 2,
+        "nama": "Minuman"
+      }
+    },
+    {
+      "id": 13,
+      "kode": "K-013",
+      "stok": "10",
+      "namaProduk": "Es Teh",
+      "harga": 2000,
+      "is_ready": true,
+      "gambar": "es-teh.jpg",
+      "category": {
+        "id": 2,
+        "nama": "Minuman"
+      }
+    },
+    {
+      "id": 14,
+      "kode": "K-014",
+      "stok": "10",
+      "namaProduk": "Teh Hangat",
+      "harga": 2000,
+      "is_ready": true,
+      "gambar": "teh-hangat.jpg",
+      "category": {
+        "id": 2,
+        "nama": "Minuman"
+      }
+    },
+    {
+      "namaProduk": "nasi goreng",
+      "harga": 10000,
+      "stok": 2,
+      "gambar": "coffe-late.jpg",
+      "id": 20
+    },
+    {
+      "namaProduk": "nasi goreng pedas bogor",
+      "harga": 100000,
+      "stok": 10,
+      "gambar": "nasi-goreng-telor.jpg",
+      "id": 21
+    },
+    {
+      "namaProduk": "Burger",
+      "harga": 15000,
+      "stok": 10,
+      "gambar": "cheese-burger.jpg",
+      "id": 22
+    },
+    {
+      "namaProduk": "tes",
+      "harga": 10000,
+      "stok": 10,
+      "gambar": "beri.jpg",
+      "id": 23
+    }
+  ]
+}
