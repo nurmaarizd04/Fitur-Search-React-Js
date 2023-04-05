@@ -1,4 +1,4 @@
-import { AddProduct, Home } from "./pages";
+import { AddProduct, EditProduct, Home } from "./pages";
 
 const Routes = [
   {
@@ -7,9 +7,14 @@ const Routes = [
     component: Home,
   },
   {
-    path: "/add",
+    path: "/produk/add",
     exact: false,
     component: AddProduct,
+  },
+  {
+    path: "/produk/edit/:id",
+    exact: false,
+    component: EditProduct,
   },
 ];
 
